@@ -1,6 +1,5 @@
 # eye-blink-detecton
 Eye blink detection using dlib and opencv
-# eye-blink-detection-demo
 
 ## Environment
 * win10
